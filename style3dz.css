@@ -1,0 +1,26 @@
+#osnova {
+    width: 1700px;
+    height: 70px;
+    padding: 10px;
+    margin: auto;
+    background-color: rgb(56, 70, 81);
+    cursor: pointer;
+    user-select: none;
+}
+
+#fon {
+    width: 1700px;
+    height: 3000px;
+    padding: 0px;
+    margin: auto;
+    background-color: rgb(86, 86, 86);
+    user-select: none;
+}
+
+#picture1-1, #picture1-2, #picture1-3 {
+    width: 150px;
+    height: 90px;
+    padding: 20px;
+    margin-left: 20px;
+    border-radius: 50%;
+}
